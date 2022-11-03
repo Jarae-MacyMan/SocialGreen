@@ -8,7 +8,7 @@ module.exports = {
   development: {
     client: 'pg',
     connection: {
-      database: 'social_green_DB',
+      database: 'mychoice',
       user: 'postgres',
       password: ''
     }
